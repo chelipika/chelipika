@@ -26,17 +26,13 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chelipika&theme=aura)
+
 ## 📊 My GitHub Stats
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chelipika&theme=aura"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chelipika&theme=aura"/>
 </div>
 
-## 🎮 Let's Play a Game!
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</div>
 
 ## 🚀 Featured Project: AI Therapy Bot
 <div align="center">
