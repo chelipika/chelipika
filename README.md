@@ -26,11 +26,11 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chelipika&theme=aura)
 ## 📊 My GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chelipika&theme=aura"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chelipika&theme=aura"/>
 </div>
 
 ## 🎮 Let's Play a Game!
