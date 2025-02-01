@@ -1,16 +1,19 @@
-# Hello, fellow developers! 👋 
+<h1 align="center" class="heading-element" dir="auto">Hello, fellow developers! 👋</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=600/>
 </div>
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/YourUsername)
-[![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot_Dev-blue?style=flat&logo=telegram&logoColor=white&color=26A5E4)](https://core.telegram.org/bots)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chelipika&label=Profile%20views&color=0e75b6&style=flat" alt="chelipika" /> </p>
+<a href="https://t.me/FewerF" rel="nofollow">
+<img src="https://camo.githubusercontent.com/c2f78ed……7768697…" height="25" alt="telegram logo" data-canonical-src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" style="max-width: 100%;">
+</a>
+- 🔭 I’m currently working on: [bot-therapist-tg](https://github.com/chelipika/bot-therapist-tg)
 
-</div>
+- 🌱 I’m currently learning: **HTML CSS JAVASCRIPT SQL REACT ML\AI**
 
+- 📫 How to reach me: **pirmatovj15@gmail.com**
+
+- ⚡ Fun fact: **I think i am funny**
 ## 🤖 Who Am I?
 ```python
 class Developer:
@@ -31,69 +34,18 @@ me.say_hi()
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chelipika&theme=aura"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chelipika&theme=aura"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chelipika&theme=aura"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chelipika&theme=aura&utcOffset=5"/>
 </div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelipika&show_icons=true&locale=en&layout=compact" alt="chelipika" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chelipika&" alt="chelipika" /></p>
 ## 🚀 Featured Project: AI Therapy Bot
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
-### Key Features:
-```mermaid
-graph LR
-    A[User Input] -->|Natural Language Processing| B(Analysis)
-    B --> C{Response Type}
-    C -->|Support| D[Emotional Support]
-    C -->|Motivation| E[Encouragement]
-    C -->|Emergency| F[Crisis Resources]
-    style A fill:#f9f,stroke:#333,stroke-width:4px
-```
 
-## 💻 Tech Stack Animation
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="400">
-</div>
 
-### Languages and Tools:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</div>
-
-## 🎯 Weekly Development Breakdown
-```text
-Python      █████████████████░░░░░   70.00 % 
-C++         ██░░░░░░░░░░░░░░░░░░░   10.00 % 
-AI/ML       ████░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-## 🌐 Connect With Me
-<div align="center">
-  <a href="https://github.com/YourUsername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href="https://t.me/YourTelegramBot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  </a>
-</div>
-
-## 🎵 Currently Coding To
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyID&cover_image=true&theme=default" />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YourUsername/count.svg" />
-  
-  ### Visitors Count
-</div>
-
----
-⭐️ From [YourUsername](https://github.com/YourUsername)
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
