@@ -8,7 +8,7 @@
 <div align="center" dir="auto">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=chelipika&label=Profile%20views&color=0e75b6&style=flat" alt="chelipika" /> </p>
 </div>
-- 🔭 I’m currently working on: <a href="https://github.com/chelipika/bot-therapist-tg">bot-therapist-tg</a>
+- 🔭 I’m currently working on: 
 
 - 🌱 I’m currently learning: **HTML CSS JAVASCRIPT SQL REACT ML\AI**
 
