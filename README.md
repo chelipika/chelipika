@@ -50,6 +50,7 @@ me.say_hi()
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
+[![GitHub release](https://img.shields.io/github/v/release/chelipika/wikki)](https://github.com/chelipika/wikki/releases)
 
 
 <h3 align="center">Languages and Tools:</h3>
