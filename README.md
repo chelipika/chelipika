@@ -40,7 +40,7 @@ me.say_hi()
 </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelipika&show_icons=true&locale=en&layout=compact" alt="chelipika" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chelipika&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chelipika&theme=dark)](https://git.io/streak-stats)
 
 
 <img src="/snake.svg">
