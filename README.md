@@ -40,7 +40,7 @@ me.say_hi()
 </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelipika&show_icons=true&locale=en&layout=compact" alt="chelipika" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=chelipika](https://camo.githubusercontent.com/c012795609a3f97d45bb9633f6c3a436ec4fb45cae7112bd561de9979d2f99cd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6368656c6970696b6126)&" alt="chelipika" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chelipika&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 
 <img src="/snake.svg">
