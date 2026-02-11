@@ -10,11 +10,10 @@
 </div>
 - 🔭 I’m currently working on: 
 
-- 🌱 I’m currently learning: **Java**
+- 🌱 I’m currently learning: 
 
 - 📫 How to reach me: **pirmatovj15@gmail.com**
 
-- ⚡ Fun fact: **I think i am funny**
 ## 🤖 Who Am I?
 ```python
 class Developer:
